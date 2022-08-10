@@ -5,11 +5,11 @@
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=murilonobrega8&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
   
-  
+</div>  
   "*" This code is based on Liliane's Soares (soareslil) page.
 </div>
   
-  ## Skills:
+  ### Skills:
   
   <div>
 <img src="https://img.shields.io/badge/Lógica_Básica-00000F?style=for-the-badge&logo=logical&logoColor=white"/>
@@ -20,12 +20,14 @@
     <img src="https://img.shields.io/badge/GNU_Linux_Básico-81BF9A?style=for-the-badge&logo=gnulinux&logoColor=black"/>
     <img src="https://img.shields.io/badge/ERP's-1112B2?style=for-the-badge&logo=erp&logoColor=black"/>
     <img src="https://img.shields.io/badge/LibreOffice-E34F26?style=for-the-badge&logo=libreoffice&logoColor=white"/>
+</div>   <br/>      
   
   ### Learning now:
    
   <div>
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=Java&logoColor=white"/>
     <img src="https://img.shields.io/badge/Java_Poo-%230077B5?style=for-the-badge&logo=javapoo&logoColor=black"/>
+</div>   <br/>      
   
   ### Future Skills
   
