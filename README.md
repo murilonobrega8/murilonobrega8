@@ -41,7 +41,7 @@
 ## TeamWork Spaces
 
 <div>
-
+<img src="https://img.shields.io/badge/Estoke_Comércio-F7DF1E?style=for-the-badge&logo=estokecomercio&logoColor=blue"/>
 </div>
 
 ## Operational Systems
