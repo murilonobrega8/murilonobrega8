@@ -6,7 +6,7 @@
 </div>
   
 </div>  
-  "*" Credits: This code is a copy based on Liliane's Soares (soareslil) page.
+  "*" Credits: This code is a copy based on Liliane's Soares (soareslil) page. Thanks, Liliane!
 </div>
   
   ### Skills:
