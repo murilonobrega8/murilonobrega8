@@ -12,7 +12,8 @@
     <img src="https://img.shields.io/badge/Algoritmos-1572B6?style=for-the-badge&logo=algoritm&logoColor=white"/>
     <img src="https://img.shields.io/badge/Integrações_de_MKTplaces-CD8B02?style=for-the-badge&logo=erpbling&logoColor=white"/>
     <img src="https://img.shields.io/badge/VisualG-11DF2E?style=for-the-badge&logo=visualg&logoColor=black"/>
-    <img src="https://img.shields.io/badge/Git_e_GitHub_Desktop-F7DF1E?style=for-the-badge&logo=github&logoColor=black"/>
+    <img src="https://img.shields.io/badge/Git-d43423?style=for-the-badge&logo=git&logoColor=black"/>
+    <img src="https://img.shields.io/badge/GitHub_Desktop-171515?style=for-the-badge&logo=github&logoColor=black"/>
     <img src="https://img.shields.io/badge/VS_Code-%230077B5?style=for-the-badge&logo=vscode&logoColor=black"/>
     <img src="https://img.shields.io/badge/Eclipse-ED8B00?style=for-the-badge&logo=eclipse&logoColor=white"/>
     <img src="https://img.shields.io/badge/GNU_Linux_Básico-81BF9A?style=for-the-badge&logo=gnulinux&logoColor=black"/>
