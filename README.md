@@ -11,7 +11,7 @@
 <img src="https://img.shields.io/badge/Lógica_Básica-00000F?style=for-the-badge&logo=logical&logoColor=white"/>
     <img src="https://img.shields.io/badge/Algoritmos-1572B6?style=for-the-badge&logo=algoritm&logoColor=white"/>
     <img src="https://img.shields.io/badge/Integrações_de_MKTplaces-CD8B02?style=for-the-badge&logo=erpbling&logoColor=white"/>
-    <img src="https://img.shields.io/badge/VisualG-11DF2E?style=for-the-badge&logo=visualg&logoColor=black"/>
+    <img src="https://img.shields.io/badge/VisualG-1cee28?style=for-the-badge&logo=visualg&logoColor=black"/>
     <img src="https://img.shields.io/badge/Git-d43423?style=for-the-badge&logo=git&logoColor=black"/>
     <img src="https://img.shields.io/badge/GitHub_Desktop-8e1783?style=for-the-badge&logo=github&logoColor=black"/>
     <img src="https://img.shields.io/badge/VS_Code-%230077B5?style=for-the-badge&logo=vscode&logoColor=black"/>
@@ -47,7 +47,7 @@
 
 <div>
       <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux_Mint-C278D6?style=for-the-badge&logo=linuxmint&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux_Mint-22c10f?style=for-the-badge&logo=linuxmint&logoColor=white"/>
   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
 </div>
 
