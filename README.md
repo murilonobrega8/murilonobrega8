@@ -56,8 +56,5 @@
 
   <a href="https://www.linkedin.com/in/murilonobrega8/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
     <a href="https://www.facebook.com/murilonobrega88/" target="_blank"><img src="https://img.shields.io/badge/-Facebook-%230077B5?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a> 
-  
-</div>  
-  "*" Credits: This code is a copy based on Liliane's Soares (soareslil) page. Thanks, Liliane!
-</div> 
+
 </div>
