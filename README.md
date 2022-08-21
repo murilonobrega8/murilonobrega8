@@ -10,6 +10,7 @@
   <div>
 <img src="https://img.shields.io/badge/Lógica_Básica-00000F?style=for-the-badge&logo=logical&logoColor=white"/>
     <img src="https://img.shields.io/badge/Algoritmos-1572B6?style=for-the-badge&logo=algoritm&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Linguagem_C-00bbbf?style=for-the-badge&logo=C++&logoColor=white"/>
     <img src="https://img.shields.io/badge/Integrações_de_MKTplaces-CD8B02?style=for-the-badge&logo=erpbling&logoColor=white"/>
     <img src="https://img.shields.io/badge/VisualG-1cee28?style=for-the-badge&logo=visualg&logoColor=black"/>
     <img src="https://img.shields.io/badge/Git-d43423?style=for-the-badge&logo=git&logoColor=black"/>
