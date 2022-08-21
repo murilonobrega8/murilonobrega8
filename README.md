@@ -31,7 +31,7 @@
     <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=Java&logoColor=white"/>
     <img src="https://img.shields.io/badge/Java_Poo-%230077B5?style=for-the-badge&logo=javapoo&logoColor=black"/>
     <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
-    <img src="https://img.shields.io/badge/PHP-F7DF1E?style=for-the-badge&logo=PHP&logoColor=white"/>
+    <img src="https://img.shields.io/badge/PHP-F7DF1E?style=for-the-badge&logo=PHP&logoColor=black"/>
 </div>   <br/>      
   
   ### Future Skills
