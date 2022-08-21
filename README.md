@@ -12,7 +12,8 @@
     <img src="https://img.shields.io/badge/Algoritmos-1572B6?style=for-the-badge&logo=algoritm&logoColor=white"/>
     <img src="https://img.shields.io/badge/Linguagem_C-00bbbf?style=for-the-badge&logo=C++&logoColor=white"/>
     <img src="https://img.shields.io/badge/Integrações_de_MKTplaces-CD8B02?style=for-the-badge&logo=erpbling&logoColor=white"/>
-    <img src="https://img.shields.io/badge/VisualG-1cee28?style=for-the-badge&logo=visualg&logoColor=black"/>
+    <img src="https://img.shields.io/badge/Vendas_Online-ff30d6?style=for-the-badge&logo=erpbling&logoColor=blue"/>
+    <img src="https://img.shields.io/badge/VisualG-00d859?style=for-the-badge&logo=visualg&logoColor=black"/>
     <img src="https://img.shields.io/badge/Git-d43423?style=for-the-badge&logo=git&logoColor=black"/>
     <img src="https://img.shields.io/badge/GitHub_Desktop-8e1783?style=for-the-badge&logo=github&logoColor=black"/>
     <img src="https://img.shields.io/badge/VS_Code-%230077B5?style=for-the-badge&logo=vscode&logoColor=black"/>
