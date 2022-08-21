@@ -9,34 +9,36 @@
   
   <div>
 <img src="https://img.shields.io/badge/Lógica_Básica-00000F?style=for-the-badge&logo=logical&logoColor=white"/>
+    <img src="https://img.shields.io/badge/VisualG-00d859?style=for-the-badge&logo=visualg&logoColor=black"/>
     <img src="https://img.shields.io/badge/Algoritmos-1572B6?style=for-the-badge&logo=algoritm&logoColor=white"/>
     <img src="https://img.shields.io/badge/Linguagem_C-00bbbf?style=for-the-badge&logo=C++&logoColor=white"/>
     <img src="https://img.shields.io/badge/Integrações_de_MKTplaces-CD8B02?style=for-the-badge&logo=erpbling&logoColor=white"/>
     <img src="https://img.shields.io/badge/Vendas_Online-ff30d6?style=for-the-badge&logo=erpbling&logoColor=blue"/>
-    <img src="https://img.shields.io/badge/VisualG-00d859?style=for-the-badge&logo=visualg&logoColor=black"/>
+    <img src="https://img.shields.io/badge/ERP's-1112B2?style=for-the-badge&logo=erp&logoColor=black"/>
+    <img src="https://img.shields.io/badge/LibreOffice-E34F26?style=for-the-badge&logo=libreoffice&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GNU_Linux_Básico-81BF9A?style=for-the-badge&logo=gnulinux&logoColor=black"/>
     <img src="https://img.shields.io/badge/Git-d43423?style=for-the-badge&logo=git&logoColor=black"/>
     <img src="https://img.shields.io/badge/GitHub_Desktop-8e1783?style=for-the-badge&logo=github&logoColor=black"/>
     <img src="https://img.shields.io/badge/VS_Code-%230077B5?style=for-the-badge&logo=vscode&logoColor=black"/>
-    <img src="https://img.shields.io/badge/Eclipse-ED8B00?style=for-the-badge&logo=eclipse&logoColor=white"/>
-    <img src="https://img.shields.io/badge/GNU_Linux_Básico-81BF9A?style=for-the-badge&logo=gnulinux&logoColor=black"/>
-    <img src="https://img.shields.io/badge/ERP's-1112B2?style=for-the-badge&logo=erp&logoColor=black"/>
-    <img src="https://img.shields.io/badge/LibreOffice-E34F26?style=for-the-badge&logo=libreoffice&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Eclipse-ED8B00?style=for-the-badge&logo=eclipse&logoColor=white"/>    
 </div>   <br/>      
   
   ### Learning now:
    
   <div>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=Java&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=Java&logoColor=white"/>
     <img src="https://img.shields.io/badge/Java_Poo-%230077B5?style=for-the-badge&logo=javapoo&logoColor=black"/>
+    <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
 </div>   <br/>      
   
   ### Future Skills
   
   <div>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-    <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+    <img src="https://img.shields.io/badge/Python-ED8B00?style=for-the-badge&logo=Python&logoColor=white"/>
+    <img src="https://img.shields.io/badge/.NET-22c10f?style=for-the-badge&logo=.NET&logoColor=white"/>
 </div>   <br/>  
   
 ## TeamWork Spaces
