@@ -1,11 +1,12 @@
-## Hello there, I am Murilo Oliveira, a junior software developer from Brazil!
+## Hello there, I am Murilo Oliveira, a junior software developer from Brazil
+
 <div align="center">
   <a href="https://github.com/murilonobrega8">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=murilonobrega8&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=murilonobrega8&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
   
-  ### Skills:
+### Skills
   
   <div>
 <img src="https://img.shields.io/badge/Lógica_Básica-00000F?style=for-the-badge&logo=logical&logoColor=white"/>
@@ -20,11 +21,11 @@
     <img src="https://img.shields.io/badge/Git-d43423?style=for-the-badge&logo=git&logoColor=black"/>
     <img src="https://img.shields.io/badge/GitHub_Desktop-8e1783?style=for-the-badge&logo=github&logoColor=black"/>
     <img src="https://img.shields.io/badge/VS_Code-%230077B5?style=for-the-badge&logo=vscode&logoColor=black"/>
-    <img src="https://img.shields.io/badge/Eclipse-ED8B00?style=for-the-badge&logo=eclipse&logoColor=white"/>    
-</div>   <br/>      
+    <img src="https://img.shields.io/badge/Eclipse-ED8B00?style=for-the-badge&logo=eclipse&logoColor=white"/>
+</div>   <br/>
   
-  ### Learning now:
-   
+### Learning Now
+
   <div>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
@@ -32,9 +33,9 @@
     <img src="https://img.shields.io/badge/Java_Poo-%230077B5?style=for-the-badge&logo=javapoo&logoColor=black"/>
     <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
     <img src="https://img.shields.io/badge/PHP-F7DF1E?style=for-the-badge&logo=PHP&logoColor=black"/>
-</div>   <br/>      
+</div>   <br/>
   
-  ### Future Skills
+### Future Skills
   
   <div>
 <img src="https://img.shields.io/badge/JavaScript-8e1783?style=for-the-badge&logo=javascript&logoColor=black"/>
@@ -45,7 +46,7 @@
 ## TeamWork Spaces
 
 <div>
-<img src="https://img.shields.io/badge/Estoke_Comércio-F7DF1E?style=for-the-badge&logo=estokecomercio&logoColor=blue"/>
+<img src="https://img.shields.io/badge/Estoke_Comércio-F7DF1E?style=for-the-badge&logo=estoke&logoColor=blue"/>
 </div>
 
 ## Operational Systems
@@ -56,10 +57,11 @@
   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
 </div>
 
- ## Connect with me
-<div> 
+## Connect with me
 
-  <a href="https://www.linkedin.com/in/murilonobrega8/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-    <a href="https://www.facebook.com/murilonobrega88/" target="_blank"><img src="https://img.shields.io/badge/-Facebook-%230077B5?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a> 
+<div>
+
+  <a href="https://www.linkedin.com/in/murilonobrega8/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+    <a href="https://www.facebook.com/murilonobrega88/" target="_blank"><img src="https://img.shields.io/badge/-Facebook-%230077B5?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
 
 </div>
