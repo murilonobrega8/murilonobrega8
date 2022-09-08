@@ -21,7 +21,7 @@
     <img src="https://img.shields.io/badge/Git-d43423?style=for-the-badge&logo=git&logoColor=black"/>
     <img src="https://img.shields.io/badge/GitHub_Desktop-8e1783?style=for-the-badge&logo=github&logoColor=black"/>
     <img src="https://img.shields.io/badge/VS_Code-%230077B5?style=for-the-badge&logo=vscode&logoColor=black"/>
-    <img src="https://img.shields.io/badge/Eclipse-ED8B00?style=for-the-badge&logo=eclipse&logoColor=white"/>
+    <img src="https://img.shields.io/badge/NetBeans-00bbbf?style=for-the-badge&logo=NetBeans&logoColor=white"/>
     <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=Java&logoColor=white"/>
 </div>   <br/>
   
@@ -29,6 +29,7 @@
 
   <div>
 <img src="https://img.shields.io/badge/Java_Poo-%230077B5?style=for-the-badge&logo=javapoo&logoColor=black"/>
+    <img src="https://img.shields.io/badge/Eclipse-ED8B00?style=for-the-badge&logo=eclipse&logoColor=white"/>
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
     <img src="https://img.shields.io/badge/PHP-F7DF1E?style=for-the-badge&logo=PHP&logoColor=black"/>
