@@ -22,16 +22,15 @@
     <img src="https://img.shields.io/badge/GitHub_Desktop-8e1783?style=for-the-badge&logo=github&logoColor=black"/>
     <img src="https://img.shields.io/badge/VS_Code-%230077B5?style=for-the-badge&logo=vscode&logoColor=black"/>
     <img src="https://img.shields.io/badge/Eclipse-ED8B00?style=for-the-badge&logo=eclipse&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=Java&logoColor=white"/>
 </div>   <br/>
   
 ### Learning Now
 
   <div>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java_Poo-%230077B5?style=for-the-badge&logo=javapoo&logoColor=black"/>
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=Java&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Java_Poo-%230077B5?style=for-the-badge&logo=javapoo&logoColor=black"/>
-    <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
     <img src="https://img.shields.io/badge/PHP-F7DF1E?style=for-the-badge&logo=PHP&logoColor=black"/>
 </div>   <br/>
   
@@ -39,6 +38,7 @@
   
   <div>
 <img src="https://img.shields.io/badge/JavaScript-8e1783?style=for-the-badge&logo=javascript&logoColor=black"/>
+    <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
     <img src="https://img.shields.io/badge/Python-ED8B00?style=for-the-badge&logo=Python&logoColor=white"/>
     <img src="https://img.shields.io/badge/.NET-22c10f?style=for-the-badge&logo=.NET&logoColor=white"/>
 </div>   <br/>  
