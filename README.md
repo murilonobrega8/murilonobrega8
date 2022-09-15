@@ -1,4 +1,4 @@
-## Hello there, I am Murilo Oliveira, a junior software developer from Brazil
+## Hello there, I am Murilo Oliveira, a junior developer from Brazil
 
 <div align="center">
   <a href="https://github.com/murilonobrega8">
