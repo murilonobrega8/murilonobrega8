@@ -32,7 +32,7 @@
   <div>
 <img src="https://img.shields.io/badge/HTML5-d43423?style=for-the-badge&logo=html5&logoColor=white"/>
     <img src="https://img.shields.io/badge/CSS3-8e1783?style=for-the-badge&logo=css3&logoColor=white"/>    
-    <img src="https://img.shields.io/badge/Eclipse-ED8B00?style=for-the-badge&logo=eclipse&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Eclipse-ED8B00?style=for-the-badge&logo=eclipse&logoColor=black"/>
     <img src="https://img.shields.io/badge/PHP-1112B2?style=for-the-badge&logo=PHP&logoColor=black"/>
     <img src="https://img.shields.io/badge/POO_PHP-%230077B5?style=for-the-badge&logo=PHP&logoColor=black"/>
 </div>   <br/>
