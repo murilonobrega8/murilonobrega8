@@ -12,7 +12,7 @@
 <img src="https://img.shields.io/badge/Lógica_Básica-00000F?style=for-the-badge&logo=logical&logoColor=white"/>
     <img src="https://img.shields.io/badge/VisualG-00d859?style=for-the-badge&logo=visualg&logoColor=black"/>
     <img src="https://img.shields.io/badge/Algoritmos-1572B6?style=for-the-badge&logo=algoritm&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Linguagem_C-00bbbf?style=for-the-badge&logo=C++&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Linguagem_C-282f22?style=for-the-badge&logo=C++&logoColor=white"/>
     <img src="https://img.shields.io/badge/Integrações_de_MKTplaces-CD8B02?style=for-the-badge&logo=erpbling&logoColor=white"/>
     <img src="https://img.shields.io/badge/Vendas_Online-8e1783?style=for-the-badge&logo=erpbling&logoColor=blue"/>
     <img src="https://img.shields.io/badge/ERP's-1112B2?style=for-the-badge&logo=erp&logoColor=black"/>
@@ -24,16 +24,16 @@
     <img src="https://img.shields.io/badge/NetBeans-00bbbf?style=for-the-badge&logo=NetBeans&logoColor=white"/>
     <img src="https://img.shields.io/badge/JAVA-ED8B00?style=for-the-badge&logo=JAVA&logoColor=white"/>
     <img src="https://img.shields.io/badge/POO_JAVA-%230077B5?style=for-the-badge&logo=JAVA&logoColor=black"/>
-    <img src="https://img.shields.io/badge/JavaScript-8e1783?style=for-the-badge&logo=javascript&logoColor=black"/>
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 </div>   <br/>
   
 ### Learning Now
 
   <div>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>    
+<img src="https://img.shields.io/badge/HTML5-d43423?style=for-the-badge&logo=html5&logoColor=white"/>
+    <img src="https://img.shields.io/badge/CSS3-8e1783?style=for-the-badge&logo=css3&logoColor=white"/>    
     <img src="https://img.shields.io/badge/Eclipse-ED8B00?style=for-the-badge&logo=eclipse&logoColor=white"/>
-    <img src="https://img.shields.io/badge/PHP-F7DF1E?style=for-the-badge&logo=PHP&logoColor=black"/>
+    <img src="https://img.shields.io/badge/PHP-1112B2?style=for-the-badge&logo=PHP&logoColor=black"/>
     <img src="https://img.shields.io/badge/POO_PHP-%230077B5?style=for-the-badge&logo=PHP&logoColor=black"/>
 </div>   <br/>
   
