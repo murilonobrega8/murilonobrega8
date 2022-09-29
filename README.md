@@ -17,10 +17,11 @@
     <img src="https://img.shields.io/badge/Vendas_Online-8e1783?style=for-the-badge&logo=erpbling&logoColor=blue"/>
     <img src="https://img.shields.io/badge/ERP's-1112B2?style=for-the-badge&logo=erp&logoColor=black"/>
     <img src="https://img.shields.io/badge/LibreOffice-E34F26?style=for-the-badge&logo=libreoffice&logoColor=white"/>
-    <img src="https://img.shields.io/badge/GNU_Linux_Básico-81BF9A?style=for-the-badge&logo=gnulinux&logoColor=black"/>
+    <img src="https://img.shields.io/badge/GNU_Linux_Básico-1112B2?style=for-the-badge&logo=gnulinux&logoColor=black"/>
     <img src="https://img.shields.io/badge/Git-d43423?style=for-the-badge&logo=git&logoColor=black"/>
     <img src="https://img.shields.io/badge/GitHub_Desktop-8e1783?style=for-the-badge&logo=github&logoColor=black"/>
     <img src="https://img.shields.io/badge/VS_Code-%230077B5?style=for-the-badge&logo=vscode&logoColor=black"/>
+    <img src="https://img.shields.io/badge/Eclipse-ED8B00?style=for-the-badge&logo=eclipse&logoColor=black"/>
     <img src="https://img.shields.io/badge/NetBeans-00bbbf?style=for-the-badge&logo=NetBeans&logoColor=white"/>
     <img src="https://img.shields.io/badge/JAVA-ED8B00?style=for-the-badge&logo=JAVA&logoColor=white"/>
     <img src="https://img.shields.io/badge/POO_JAVA-%230077B5?style=for-the-badge&logo=JAVA&logoColor=black"/>
@@ -32,17 +33,15 @@
 ### Learning Now
 
   <div>
-<img src="https://img.shields.io/badge/PHP-1112B2?style=for-the-badge&logo=PHP&logoColor=black"/>
-    <img src="https://img.shields.io/badge/POO_PHP-%230077B5?style=for-the-badge&logo=PHP&logoColor=black"/>
-    <img src="https://img.shields.io/badge/Eclipse-ED8B00?style=for-the-badge&logo=eclipse&logoColor=black"/>
-    <img src="https://img.shields.io/badge/SQL-8e1783?style=for-the-badge&logo=SQL&logoColor=black"/>
+<img src="https://img.shields.io/badge/PHP-5f4bb9?style=for-the-badge&logo=PHP&logoColor=black"/>
+    <img src="https://img.shields.io/badge/POO_PHP-5f4bb9?style=for-the-badge&logo=PHP&logoColor=black"/>
+    <img src="https://img.shields.io/badge/MySQL-1112B2?style=for-the-badge&logo=mysql&logoColor=white"/>
 </div>   <br/>
   
 ### Future Skills
   
   <div>
-<img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Python-ED8B00?style=for-the-badge&logo=Python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-ED8B00?style=for-the-badge&logo=Python&logoColor=white"/>
     <img src="https://img.shields.io/badge/.NET-22c10f?style=for-the-badge&logo=.NET&logoColor=white"/>
 </div>   <br/>  
   
